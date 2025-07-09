@@ -53,3 +53,7 @@ body {
     position: absolute;
     z-index: 10;
 }
+
+.hide-native-cursor {
+  cursor: none;
+}
